@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Employee</string>
+
+    <string name="name">Employee Name</string>
+    <string name="company">Company :</string>
+    <string name="company_name">Company Name</string>
+    <string name="msg_video_player_network_error">Check your internet connection and try again</string>
+
 </resources>
